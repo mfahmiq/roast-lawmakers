@@ -1,5 +1,9 @@
 # Roast Lawmakers — The Long Roast
 
+[![make.fun](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![rank](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/mfahmiq/roast-lawmakers/rank.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![reward](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/mfahmiq/roast-lawmakers/reward.svg)](https://make.fun/c/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+
 An entry for the [make.fun](https://make.fun) bounty
 **"The Long Roast: Lawmakers and the File They Cannot Convert"**
 (`u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7`).
